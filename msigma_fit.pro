@@ -57,11 +57,9 @@ dsig       = bhs.dsig
 rekpc      = bhs.r50
 lk         = bhs.lk
 c28        = bhs.c28
-;lkor       = bhs.lkor
 drekpc     = bhs.dr50
 dlk        = bhs.dlk
 dc28       = bhs.dc28
-;dlkor      = bhs.dlkor
 covar      = bhs.cr50lk  
 	
 end
@@ -99,12 +97,6 @@ device,xsize=8.7,ysize=4.7
 input='/Users/bosch/Dropbox/sync/Manuscripts/BHFP/database/BHcompilation.fits'
 readBHinformation,input,name,type,select,mbh,dmbh,upperlimit,sig,dsig, $
 rekpc ,mk ,c28, drekpc ,dmk ,dc28,covar
-
-;stop
-
-;readcol,input,name,type,select,mbh,dmbh,upperlimit,sig,dsig, $
-;rekpc ,mk ,c28,lkor, drekpc ,dmk ,dc28,dlkor,covar ,$
-;format='A,A,I,F,F,I,F,F,F,F,F,F,F,F,F,F,F,F'
 
 n=N_ELEMENTS(name)
 
