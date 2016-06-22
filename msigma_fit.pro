@@ -94,7 +94,7 @@ device,xsize=8.7,ysize=4.7
 !x.margin=[5.5,2.0]
 	
 
-input='/Users/bosch/Dropbox/sync/Manuscripts/BHFP/database/BHcompilation.fits'
+input='BHcompilation.fits'
 readBHinformation,input,name,type,select,mbh,dmbh,upperlimit,sig,dsig, $
 rekpc ,mk ,c28, drekpc ,dmk ,dc28,covar
 
