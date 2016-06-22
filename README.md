@@ -9,6 +9,6 @@ The total compilation contains 294 galaxies, of which 230 are used in the fits i
 Feel free to fork and push changes. Or request additional information. Or find BH masses that I missed. :)
 
 Cheers,
-@remcovandenbosch
+[]@remcovandenbosch](https://twitter.com/remcovdbosch)
 
 
